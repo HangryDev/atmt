@@ -1,0 +1,3 @@
+Wand
+fastapi
+uvicorn[standard]
